@@ -1,5 +1,9 @@
 # 🌱 Predict-O-Crop
 
+## 🚀 Try It Now
+
+[![Try Predict-O-Crop](https://img.shields.io/badge/🚀%20Try%20Predict--O--Crop-FF4B4B?style=for-the-badge)](https://predict-o-crop-app.streamlit.app/)
+
 ## Overview
 
 Predict-O-Crop is a Machine Learning-based Crop Recommendation System that suggests the most suitable crop based on soil nutrients and environmental conditions.
