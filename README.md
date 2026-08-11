@@ -120,7 +120,7 @@ streamlit run app.py
 
 ## Author
 
-Tanishka Khandelwal
+Shagun Rana
 
 B.Tech Computer Science & Engineering
 
